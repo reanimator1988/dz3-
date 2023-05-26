@@ -1,4 +1,4 @@
-//Домашнє завдання №4
+//Домашнє завдання №3
 const input = +prompt('Enter a number from 1 to 4');
 switch(input) {
 	case 1:
